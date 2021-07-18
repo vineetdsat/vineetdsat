@@ -4,9 +4,9 @@
 
 ## About
 Engineering graduate, Attentive to Details and a data enthusiast. Passionate about studying how to improve performance. Seeking to leverage my analytical skills to improve corporate performance as an analyst
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vineet-singh-2610" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vineet-singh-2610?trk=profile-badge">Vineet Singh</a></div>
               
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 His knowledge and interests currently revolve around programming machine learning applications and all its related aspects. To the core, he considers himself a problem solver of complex environments, which is reflected in his various projects.
 
 Don't hesitate to get in touch if you have ideas, projects, or problems.
