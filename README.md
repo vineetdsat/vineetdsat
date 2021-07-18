@@ -3,8 +3,7 @@
 # VINEET SINGH
 
 ## About
-Vineet is Data Scientist, AI ML Coach and consultant. He has worked at Accenture, Siemens Healthineers and currently working at Philips. 
-Data science Mentor and Coach at Upgrad , Great learning and Analytics Vidhya. Founder @pathtoai. 
+Engineering graduate, Attentive to Details and a data enthusiast. Passionate about studying how to improve performance. Seeking to leverage my analytical skills to improve corporate performance as an analyst.![image](https://user-images.githubusercontent.com/42576612/126053681-d6480ff4-33e1-43ae-96da-c9ae636db037.png) 
 
 His knowledge and interests currently revolve around programming machine learning applications and all its related aspects. To the core, he considers himself a problem solver of complex environments, which is reflected in his various projects.
 
