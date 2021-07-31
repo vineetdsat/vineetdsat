@@ -3,27 +3,25 @@
 # VINEET SINGH
 
 ## About
-Engineering graduate, Attentive to Details and a data enthusiast. Passionate about studying how to improve performance. Seeking to leverage my analytical skills to improve corporate performance as an analyst
-
-
-His knowledge and interests currently revolve around programming machine learning applications and all its related aspects. To the core, he considers himself a problem solver of complex environments, which is reflected in his various projects.
-
-Don't hesitate to get in touch if you have ideas, projects, or problems.
+Engineering graduate, Attentive to Details and a data enthusiast. Passionate about studying how to improve performance. Seeking to leverage my analytical skills to improve corporate performance as an analyst.
 
 
 ## Knowledge
 
-I focus on Machine Learning, Deep-learning and MLOPS aspects in Data Science. 
+I focus on Data Analytics, Web-Scraping, SQL & Machine Learning. 
 
-I worked with
-- Data Sctructure and Algo
-- Python (Pandas, Matplotlib, Sklearn, PyTorch, Tensorflow etc.)
+
+Don't hesitate to get in touch if you have ideas, projects, or problems.
+
+
+
 
 
 ## Connect on
-- [Portfolio](https://vineetdsat.github.io/Portfolio/)
+- [Portfolio](https://vineetdsat.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/vineet-singh-2610)
 - [Github](https://github.com/vineetdsat/)
+- [Twitter](https://twitter.com/VineetSingh2610/)
 
 
 
