@@ -14,6 +14,9 @@ I focus on Data Analytics, Web-Scraping, SQL & Machine Learning.
 Don't hesitate to get in touch if you have ideas, projects, or problems.
 
 ### <a href="https://github.com/vineetdsat/vineetdsat/raw/main/Resume.pdf" class="button">Download Resume</a>
+<ul class="actions">
+	<li><a href="https://github.com/vineetdsat?tab=repositories" class="button" align = 'center'>Browse All</a></li>
+</ul>
 
 
 ## Connect on
