@@ -22,5 +22,9 @@ Don't hesitate to get in touch if you have ideas, projects, or problems.
 - [Github](https://github.com/vineetdsat/)
 - [Twitter](https://twitter.com/VineetSingh2610/)
 
+	<li><a href="https://twitter.com/VineetSingh2610/" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+	<li><a href="https://www.linkedin.com/in/vineet-singh-2610/" class="icon brands fa-linkedin"><span class="label">Facebook</span></a></li>
+	<li><a href="https://www.instagram.com/_vineet__singh_/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+	<li><a href="https://github.com/vineetdsat/" class="icon brands fa-github"><span class="label">Github</span></a></li>
 
 
