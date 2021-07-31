@@ -13,8 +13,7 @@ I focus on Data Analytics, Web-Scraping, SQL & Machine Learning.
 
 Don't hesitate to get in touch if you have ideas, projects, or problems.
 
-<a href="#" class="button">Post comment</a>
-
+<a href="#" class="button .arrowdown">Search</a>
 
 
 ## Connect on
