@@ -13,7 +13,9 @@ I focus on Data Analytics, Web-Scraping, SQL & Machine Learning.
 
 Don't hesitate to get in touch if you have ideas, projects, or problems.
 
-
+<a href="#" class="button">Download Resume</a>
+<input class="button" type="submit" value="Download Resume">
+<button class="button" type="submit">Download Resume</button>
 
 
 
