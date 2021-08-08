@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there 👋 This is
 
 # VINEET SINGH
 
-## About
+## About Me
 Engineering graduate, Attentive to Details and a data enthusiast. Passionate about studying how to improve performance. Seeking to leverage my analytical skills to improve corporate performance as an analyst.
 
 
-## Skills
+## My Skills
 <ul>
   <li>Python</li>                                      
 	<li>SQL</li>
