@@ -31,6 +31,10 @@ Don't hesitate to get in touch if you have ideas, projects, or problems.
 
 ### <a href="https://github.com/vineetdsat/vineetdsat/raw/main/Resume.pdf" class="button">Download Resume</a>
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges) 
+
+![MLOps. You Desing It. Your Train It. You Run It.](awesome-mlops-intro.png)
+
 ## Connect on
 - [Portfolio](https://vineetdsat.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/vineet-singh-2610)
