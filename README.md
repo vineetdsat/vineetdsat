@@ -28,6 +28,8 @@ Engineering graduate, Attentive to Details and a data enthusiast. Passionate abo
 
 
 Don't hesitate to get in touch if you have ideas, projects, or problems.
+<br>
+![Profile View Counter](https://komarev.com/ghpvc/?username=vineetdsat)
 
 ### Download Resume
 
@@ -38,21 +40,27 @@ Don't hesitate to get in touch if you have ideas, projects, or problems.
 ## Connect on
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vineetdsat@gmail.com)
 <br>
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet-singh-2610)
+<br>
 <br>
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VineetSingh2610/)
 <br>
+<br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vineet__singh_/)
 <br>
+<br>
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vineet.singh.uchiha/)
+<br>
 <br>
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917348903189)
 
 ## View My
 - [Tableau Public Profile](https://public.tableau.com/app/profile/vineet.singh3192)
+- <br>
 - [Portfolio](https://vineetdsat.github.io/portfolio/)
 
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetdsat)
-![Profile View Counter](https://komarev.com/ghpvc/?username=vineetdsat)
+
