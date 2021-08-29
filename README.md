@@ -1,6 +1,6 @@
 ### Hi there 👋 This is
 
-# VINEET SINGH
+# [VINEET SINGH](https://vineetdsat.github.io/portfolio/)
 
 ## About Me
 Engineering graduate, Attentive to Details and a data enthusiast. Passionate about studying how to improve performance. Seeking to leverage my analytical skills to improve corporate performance as an analyst.
@@ -50,13 +50,8 @@ Don't hesitate to get in touch if you have ideas, projects, or problems.
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vineet.singh.uchiha/)
 &emsp;
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917348903189)
-
-## View My
-Tableau Public Profile<br>
-[![Tableau Public Profile](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/320px-Tableau_Logo.png)](https://public.tableau.com/app/profile/vineet.singh3192)
-<br>
-Portfolio Website<br>
-[![Portfolio](https://github.com/vineetdsat/vineetdsat/blob/main/icons/portfolio_banner.png)](https://vineetdsat.github.io/portfolio/)
+&emsp;
+[![Tableau Public Profile](https://github.com/vineetdsat/vineetdsat/blob/main/icons/320px-Tableau_Logo%20(1).png)](https://public.tableau.com/app/profile/vineet.singh3192)
 
 ##
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetdsat)
