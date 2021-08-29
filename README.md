@@ -35,7 +35,7 @@ Don't hesitate to get in touch if you have ideas, projects, or problems.
 
 
 ## Connect on
-[![Portfolio](https://github.com/vineetdsat/vineetdsat/blob/main/tableau-software.svg)](https://vineetdsat.github.io/portfolio/)
+[![Portfolio](https://github.com/vineetdsat/vineetdsat/blob/main/tableau-software.icp)](https://vineetdsat.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet-singh-2610)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VineetSingh2610/)
 [Tableau Public Profile](https://public.tableau.com/app/profile/vineet.singh3192)
