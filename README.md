@@ -42,5 +42,5 @@ Don't hesitate to get in touch if you have ideas, projects, or problems.
 
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetdsat&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetdsat)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=vineetdsat)
