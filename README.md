@@ -38,7 +38,7 @@ Don't hesitate to get in touch if you have ideas, projects, or problems.
 
 
 
-## Connect on
+## Connect With Me On 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vineetdsat@gmail.com)
 &emsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet-singh-2610)
@@ -53,6 +53,6 @@ Don't hesitate to get in touch if you have ideas, projects, or problems.
 &emsp;
 [![Tableau Public Profile](https://github.com/vineetdsat/vineetdsat/blob/main/icons/320px-Tableau_Logo%20(1).png)](https://public.tableau.com/app/profile/vineet.singh3192)
 
-##
+### Profile Summary
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetdsat)
 
