@@ -37,6 +37,6 @@ Don't hesitate to get in touch if you have ideas, projects, or problems.
 
 ## Connect on
 - [Portfolio](https://vineetdsat.github.io/portfolio/)
-- [LinkedIn](https://www.linkedin.com/in/vineet-singh-2610)
+- [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet-singh-2610)
 - [Twitter](https://twitter.com/VineetSingh2610/)
 - [Tableau Public Profile](https://public.tableau.com/app/profile/vineet.singh3192)
