@@ -38,9 +38,8 @@ Don't hesitate to get in touch if you have ideas, projects, or problems.
 
 
 
-## Connect With Me On 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vineetdsat@gmail.com)
-&nbsp;
+# Connect With Me On 
+### Email - vineetdsat@gmail.com &emsp; Mobile - +91 7348 903 189
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet-singh-2610)
 &nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VineetSingh2610/)
