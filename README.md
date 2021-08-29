@@ -54,5 +54,7 @@ Don't hesitate to get in touch if you have ideas, projects, or problems.
 [![Tableau Public Profile](https://github.com/vineetdsat/vineetdsat/blob/main/icons/320px-Tableau_Logo%20(1).png)](https://public.tableau.com/app/profile/vineet.singh3192)
 
 ### Profile Summary
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetdsat)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetdsat) &emsp;&emsp;&emsp;&emsp;&emsp;
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vineetdsat&show_icons=true)
+
 
