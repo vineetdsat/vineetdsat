@@ -29,8 +29,9 @@ Engineering graduate, Attentive to Details and a data enthusiast. Passionate abo
 
 Don't hesitate to get in touch if you have ideas, projects, or problems.
 
-###<img src="https://img.icons8.com/fluency/48/000000/pdf-2.png"/> <a href="https://github.com/vineetdsat/vineetdsat/raw/main/Resume.pdf" class="button">Download Resume</a>
+### Download Resume
 
+[![Download Resume](https://img.icons8.com/fluency/48/000000/pdf-2.png)](https://github.com/vineetdsat/vineetdsat/raw/main/Resume.pdf)
 
 
 
