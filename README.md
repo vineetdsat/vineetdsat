@@ -42,4 +42,4 @@ Don't hesitate to get in touch if you have ideas, projects, or problems.
 
 
 
-https://github.com/anuraghazra/github-readme-stats/tree/master/apitop-langs/?username=vineetdsat
+https://github.com/anuraghazra/github-readme-stats/tree/master/apitop-langs/?username={vineetdsat}
