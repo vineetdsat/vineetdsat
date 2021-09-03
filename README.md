@@ -1,3 +1,6 @@
+
+
+
 ### Hi there 👋 This is
 
 # [VINEET SINGH](https://vineetdsat.github.io/portfolio/)
@@ -5,7 +8,7 @@
 ## About Me
 Engineering graduate, Attentive to Details and a data enthusiast. Passionate about studying how to improve performance. Seeking to leverage my analytical skills to improve corporate performance as an analyst.
 
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=vineetdsat) 
 ## My Skills
 <ul>
   <li>Python</li>                                      
@@ -27,35 +30,22 @@ Engineering graduate, Attentive to Details and a data enthusiast. Passionate abo
 
 
 
-Don't hesitate to get in touch if you have ideas, projects, or problems.
+## Don't hesitate to get in touch if you have ideas, projects, or problems.
+
+[![Download Resume](https://img.shields.io/badge/Download-Resume-red)](https://github.com/vineetdsat/vineetdsat/raw/main/Resume.pdf)
+
+![Gmail](https://img.shields.io/badge/Gmail-vineetdsat@gmail.com-lightgrey?style=for-the-badge&logo=appveyor) ![Mobile](https://img.shields.io/badge/Mobile-+917348903189-green)
 
 
-### Download Resume
 
-[![Download Resume](https://img.icons8.com/fluency/48/000000/pdf-2.png)](https://github.com/vineetdsat/vineetdsat/raw/main/Resume.pdf)
+### Connect With Me On 
+
 <br>
-![Profile View Counter](https://komarev.com/ghpvc/?username=vineetdsat)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vineetsingh2610-informational)](https://www.linkedin.com/in/vineet-singh-2610)  [![Twitter](https://img.shields.io/badge/Twitter-Vineetsingh2610-informational)](https://twitter.com/VineetSingh2610/) [![Instagram](https://img.shields.io/badge/Instagram-Vineet_Singh-informational)](https://www.instagram.com/_vineet__singh_/) [![Facebook](https://img.shields.io/badge/Facebook-Vineet_Singh-informational)](https://www.facebook.com/vineet.singh.uchiha/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-+91_7348_903_189-informational)](https://wa.me/917348903189) [![Tableau Public Profile](https://img.shields.io/badge/Tableau-Profile-blue)](https://public.tableau.com/app/profile/vineet.singh3192)
 
 
 
-# Connect With Me On 
-![Gmail](https://img.shields.io/badge/Gmail-vineetdsat@gmail.com-green)
-![Mobile](https://img.shields.io/badge/Mobile-+917348903189-green)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet-singh-2610)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VineetSingh2610/)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vineet__singh_/)
-&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vineet.singh.uchiha/)
-&nbsp;
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917348903189)
-&nbsp;
-[![Tableau Public Profile](https://img.shields.io/badge/Tableau-Profile-blue)](https://public.tableau.com/app/profile/vineet.singh3192)
-
-### Profile Summary
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetdsat&layout=compact) &emsp;&emsp;&emsp;
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vineetdsat&show_icons=true)
 
 
