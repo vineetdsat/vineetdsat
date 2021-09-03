@@ -50,7 +50,7 @@ Don't hesitate to get in touch if you have ideas, projects, or problems.
 &nbsp;
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917348903189)
 &nbsp;
-[![Tableau Public Profile](https://github.com/vineetdsat/vineetdsat/blob/main/icons/320px-Tableau_Logo%20(1).png)](https://public.tableau.com/app/profile/vineet.singh3192)
+[![Tableau Public Profile](https://img.shields.io/badge/Tableau-Profile-blue)](https://public.tableau.com/app/profile/vineet.singh3192)
 
 ### Profile Summary
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetdsat&layout=compact) &emsp;&emsp;&emsp;
