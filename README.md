@@ -42,7 +42,9 @@ Engineering graduate, Attentive to Details and a data enthusiast. Passionate abo
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vineetsingh2610-informational)](https://www.linkedin.com/in/vineet-singh-2610)  [![Twitter](https://img.shields.io/badge/Twitter-Vineetsingh2610-informational)](https://twitter.com/VineetSingh2610/) [![Instagram](https://img.shields.io/badge/Instagram-Vineet_Singh-informational)](https://www.instagram.com/_vineet__singh_/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-Chat_With_Me!-informational)](https://wa.me/917348903189) [![Tableau Public Profile](https://img.shields.io/badge/Tableau-Profile-blue)](https://public.tableau.com/app/profile/vineet.singh3192) [![Porfolio](https://img.shields.io/badge/Personal-Portfolio-blue)](https://vineetdsat.github.io/portfolio/) [![Credly](https://img.shields.io/badge/Credly-Badges-blue)](https://www.credly.com/users/vineet-singh.647779d8/badges/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vineetsingh2610-informational)](https://www.linkedin.com/in/vineet-singh-2610)  [![Twitter](https://img.shields.io/badge/Twitter-Vineetsingh2610-informational)](https://twitter.com/VineetSingh2610/) [![Instagram](https://img.shields.io/badge/Instagram-Vineet_Singh-informational)](https://www.instagram.com/_vineet__singh_/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-Chat_With_Me!-informational)](https://wa.me/917348903189)
+<br>
+[![Tableau Public Profile](https://img.shields.io/badge/Tableau-Profile-blue)](https://public.tableau.com/app/profile/vineet.singh3192) [![Porfolio](https://img.shields.io/badge/Personal-Portfolio-blue)](https://vineetdsat.github.io/portfolio/) [![Credly](https://img.shields.io/badge/Credly-Badges-blue)](https://www.credly.com/users/vineet-singh.647779d8/badges/)
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vineetdsat&show_icons=true)
