@@ -34,7 +34,8 @@ Engineering graduate, Attentive to Details and a data enthusiast. Passionate abo
 
 [![Download Resume](https://img.shields.io/badge/Download-Resume-red)](https://github.com/vineetdsat/vineetdsat/raw/main/Resume.pdf)
 
-![Gmail](https://img.shields.io/badge/Gmail-vineetdsat@gmail.com-green?style=for-the-badge&logo=appveyor?logoColor=violet)    ![Mobile](https://img.shields.io/badge/Mobile-+917348903189-green)
+![Gmail](https://img.shields.io/badge/Gmail-vineetdsat@gmail.com-green?style=for-the-badge&logo=appveyor?logoColor=violet)  
+![Mobile](https://img.shields.io/badge/Mobile-+91_7348_903_189-green?style=for-the-badge&logo=appveyor?logoColor=violet)
 
 
 
