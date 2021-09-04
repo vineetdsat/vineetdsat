@@ -4,8 +4,10 @@
 ### Hi there 👋 This is
 
 # [VINEET SINGH](https://vineetdsat.github.io/portfolio/)
-![Gmail](https://img.shields.io/badge/Gmail-vineetdsat@gmail.com-informational?style=for-the-badge&logo=appveyor)  ![Mobile](https://img.shields.io/badge/Mobile-+91_7348_903_189-informational?style=for-the-badge&logo=appveyor)
-
+<p>
+<a><img src="https://img.shields.io/badge/Gmail-vineetdsat@gmail.com-informational&logo=appveyor" alt="LinkedIn" width = "200", hight = 200/></a>
+<a><img src="https://img.shields.io/badge/Mobile-+91_7348_903_189-informational&logo=appveyor" alt="LinkedIn" width = "200", hight = 200/></a>
+</p>
 ## About Me
 <p align = "justify">
 Engineering graduate, Attentive to Details and a data enthusiast. Passionate about studying how to improve performance. Seeking to leverage my analytical skills to improve corporate performance as an analyst.
