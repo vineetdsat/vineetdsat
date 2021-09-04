@@ -5,7 +5,7 @@
 
 # [VINEET SINGH](https://vineetdsat.github.io/portfolio/)
 <p>
-<a><img src="https://img.shields.io/badge/Gmail-vineetdsat@gmail.com-informational&logo=appveyor" alt="LinkedIn" width = "200", hight = 200/></a>
+<a><img src="https://img.shields.io/badge/Gmail-vineetdsat@gmail.com-informational&logo=appveyor" alt="LinkedIn" width = "208", hight = 208/></a>
 <a><img src="https://img.shields.io/badge/Mobile-+91_7348_903_189-informational&logo=appveyor" alt="LinkedIn" width = "200", hight = 200/></a>
 </p>
 ## About Me
