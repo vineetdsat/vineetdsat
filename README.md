@@ -61,8 +61,5 @@ Engineering graduate, Attentive to Details and a data enthusiast. Passionate abo
 <a href="https://wa.me/917348903189"><img src="https://img.shields.io/badge/WhatsApp-Chat_With_Me!-informational" alt="WhatsApp" width = "200", hight = 200/></a>
 </p>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vineetdsat&show_icons=true)
-
-
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vineetdsat&show_icons=true)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![GIF](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
 
