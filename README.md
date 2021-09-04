@@ -2,8 +2,10 @@
 
 
 ### Hi there 👋 This is
+<p>
+<h1 href = "https://vineetdsat.github.io/portfolio/"><img src = "vineetdsat/icons/portfolio_logo.svg" width = 35 hight = 35 alt = "icon">&ensp;VINEET SINGH</h1>
+</p>
 
-# [VINEET SINGH](https://vineetdsat.github.io/portfolio/)
 <p>
 <a href = "mailto: vineetdsat@gmail.com"><img src="https://img.shields.io/badge/Gmail-vineetdsat@gmail.com-blueviolet" alt="Gmail" width = "208", hight = 208/></a>
 <a href = "https://wa.me/917348903189"><img src="https://img.shields.io/badge/Mobile-+91_7348_903_189-blueviolet" alt="Mobile" width = "200", hight = 200/></a>
