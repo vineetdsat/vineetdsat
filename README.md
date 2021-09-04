@@ -8,6 +8,7 @@
 <a><img src="https://img.shields.io/badge/Gmail-vineetdsat@gmail.com-blueviolet" alt="Gmail" width = "208", hight = 208/></a>
 <a><img src="https://img.shields.io/badge/Mobile-+91_7348_903_189-blueviolet" alt="Mobile" width = "200", hight = 200/></a>
 </p>
+
 ## About Me
 <p align = "justify">
 Engineering graduate, Attentive to Details and a data enthusiast. Passionate about studying how to improve performance. Seeking to leverage my analytical skills to improve corporate performance as an analyst.
@@ -16,8 +17,8 @@ Engineering graduate, Attentive to Details and a data enthusiast. Passionate abo
 ### View My Work & Achivements At - 
 <p align = left>
 <a href="https://public.tableau.com/app/profile/vineet.singh3192"><img src="https://img.shields.io/badge/Tableau-Profile-orange" alt="LinkedIn" width = "130", hight = 100/></a>
-<a href="https://vineetdsat.github.io/portfolio/"><img src="https://img.shields.io/badge/Personal-Portfolio-orange" alt="LinkedIn" width = "150", hight = 100/></a>
-<a href = "https://www.credly.com/users/vineet-singh.647779d8/badges/"><img src="https://img.shields.io/badge/Credly-Badges-orange" alt="LinkedIn" width = "130", hight =100/></a>
+<a href="https://vineetdsat.github.io/portfolio/"><img src = "https://unpkg.com/simple-icons@v5/icons/acclaim.svg" width = 30 hight = 10>&ensp;<img src="https://img.shields.io/badge/Personal-Portfolio-orange" alt="LinkedIn" width = "150", hight = 100/></a>&ensp;&ensp;
+<a href = "https://www.credly.com/users/vineet-singh.647779d8/badges/"><img src = "https://unpkg.com/simple-icons@v5/icons/acclaim.svg" width = 30 hight = 10>&ensp;<img src="https://img.shields.io/badge/Credly-Badges-orange" alt="LinkedIn" width = "130", hight =100/></a>
 </p>
 ## My Skills
 <ul>
@@ -41,10 +42,9 @@ Engineering graduate, Attentive to Details and a data enthusiast. Passionate abo
 
 
 ## Don't hesitate to get in touch if you have ideas, projects, or problems.
-
-[![Download Resume](https://img.shields.io/badge/Download-Resume-red)](https://github.com/vineetdsat/vineetdsat/raw/main/Resume.pdf)
-
-
+<p align = left>
+<a href = "https://github.com/vineetdsat/vineetdsat/raw/main/Resume.pdf"><img src = "https://unpkg.com/simple-icons@v5/icons/adobeacrobatreader.svg" width = 30 hight = 10>&ensp;<img src = "https://img.shields.io/badge/Download-Resume-red" alt = "Resume" width = 180 hight = 100>
+</p>
 
 
 
