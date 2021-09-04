@@ -46,7 +46,7 @@ Engineering graduate, Attentive to Details and a data enthusiast. Passionate abo
 
 ## Don't hesitate to get in touch if you have ideas, projects, or problems.
 <p align = left>
-<a href = "https://github.com/vineetdsat/vineetdsat/raw/main/Resume.pdf"><img src = "https://unpkg.com/simple-icons@v5/icons/adobeacrobatreader.svg" width = 30 hight = 10>&ensp<img src = "https://img.shields.io/badge/Download-Resume-red" alt = "Resume" width = 180 hight = 100>
+<a href = "https://github.com/vineetdsat/vineetdsat/raw/main/Resume.pdf"><img src = "https://unpkg.com/simple-icons@v5/icons/adobeacrobatreader.svg" width = 30 hight = 10>&ensp;<img src = "https://img.shields.io/badge/Download-Resume-red" alt = "Resume" width = 180 hight = 100>
 </p>
 
 
