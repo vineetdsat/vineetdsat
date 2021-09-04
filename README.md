@@ -5,8 +5,12 @@
 
 # [VINEET SINGH](https://vineetdsat.github.io/portfolio/)
 ![Gmail](https://img.shields.io/badge/Gmail-vineetdsat@gmail.com-informational?style=for-the-badge&logo=appveyor)  ![Mobile](https://img.shields.io/badge/Mobile-+91_7348_903_189-informational?style=for-the-badge&logo=appveyor)
+
 ## About Me
+<p align = "justify">
 Engineering graduate, Attentive to Details and a data enthusiast. Passionate about studying how to improve performance. Seeking to leverage my analytical skills to improve corporate performance as an analyst.
+</p>
+
 ### View My Work & Achivements At - 
 
 [![Tableau Public Profile](https://img.shields.io/badge/Tableau-Profile-orange)](https://public.tableau.com/app/profile/vineet.singh3192) [![Porfolio](https://img.shields.io/badge/Personal-Portfolio-orange)](https://vineetdsat.github.io/portfolio/) [![Credly](https://img.shields.io/badge/Credly-Badges-orange)](https://www.credly.com/users/vineet-singh.647779d8/badges/)
@@ -44,9 +48,12 @@ Engineering graduate, Attentive to Details and a data enthusiast. Passionate abo
 ### Connect With Me On 
 
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vineetsingh2610-informational)](https://www.linkedin.com/in/vineet-singh-2610)  [![Twitter](https://img.shields.io/badge/Twitter-Vineetsingh2610-informational)](https://twitter.com/VineetSingh2610/) [![Instagram](https://img.shields.io/badge/Instagram-Vineet_Singh-informational)](https://www.instagram.com/_vineet__singh_/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-Chat_With_Me!-informational)](https://wa.me/917348903189) 
-
+<p align = "center">
+<a href="https://www.linkedin.com/in/vineet-singh-2610"><img src="https://img.shields.io/badge/LinkedIn-Vineetsingh2610-informational" alt="LinkedIn" width = "200", hight = 200/></a>
+<a href="https://twitter.com/VineetSingh2610/"><img src="https://img.shields.io/badge/Twitter-Vineetsingh2610-informational" alt="Twitter" width = "200", hight = 200/></a>
+<a href="https://www.instagram.com/_vineet__singh_/"><img src="https://img.shields.io/badge/Instagram-Vineet_Singh-informational" alt="Instagram"width = "200", hight = 200/ ></a>
+<a href="https://wa.me/917348903189"><img src="https://img.shields.io/badge/WhatsApp-Chat_With_Me!-informational" alt="WhatsApp" width = "200", hight = 200/></a>
+</p>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vineetdsat&show_icons=true)
 
