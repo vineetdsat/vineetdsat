@@ -5,8 +5,8 @@
 
 # [VINEET SINGH](https://vineetdsat.github.io/portfolio/)
 <p>
-<a><img src="https://img.shields.io/badge/Gmail-vineetdsat@gmail.com-informational&logo=appveyor" alt="LinkedIn" width = "208", hight = 208/></a>
-<a><img src="https://img.shields.io/badge/Mobile-+91_7348_903_189-informational&logo=appveyor" alt="LinkedIn" width = "200", hight = 200/></a>
+<a><img src="https://img.shields.io/badge/Gmail-vineetdsat@gmail.com-blueviolet" alt="Gmail" width = "208", hight = 208/></a>
+<a><img src="https://img.shields.io/badge/Mobile-+91_7348_903_189-blueviolet" alt="Mobile" width = "200", hight = 200/></a>
 </p>
 ## About Me
 <p align = "justify">
@@ -14,10 +14,11 @@ Engineering graduate, Attentive to Details and a data enthusiast. Passionate abo
 </p>
 
 ### View My Work & Achivements At - 
-
-[![Tableau Public Profile](https://img.shields.io/badge/Tableau-Profile-orange)](https://public.tableau.com/app/profile/vineet.singh3192) [![Porfolio](https://img.shields.io/badge/Personal-Portfolio-orange)](https://vineetdsat.github.io/portfolio/) [![Credly](https://img.shields.io/badge/Credly-Badges-orange)](https://www.credly.com/users/vineet-singh.647779d8/badges/)
-
-
+<p align = left>
+<a href="https://public.tableau.com/app/profile/vineet.singh3192"><img src="https://img.shields.io/badge/Tableau-Profile-orange" alt="LinkedIn" width = "130", hight = 100/></a>
+<a href="https://vineetdsat.github.io/portfolio/"><img src="https://img.shields.io/badge/Personal-Portfolio-orange" alt="LinkedIn" width = "150", hight = 100/></a>
+<a href = "https://www.credly.com/users/vineet-singh.647779d8/badges/"><img src="https://img.shields.io/badge/Credly-Badges-orange" alt="LinkedIn" width = "130", hight =100/></a>
+</p>
 ## My Skills
 <ul>
   <li>Python</li>                                      
