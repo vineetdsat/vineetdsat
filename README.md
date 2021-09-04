@@ -3,7 +3,7 @@
 
 ### Hi there 👋 This is
 <p>
-<h1 href = "https://vineetdsat.github.io/portfolio/"><img src = "vineetdsat/icons/portfolio_logo.svg" width = 35 hight = 35 alt = "icon">&ensp;VINEET SINGH</h1>
+<h1 href = "https://vineetdsat.github.io/portfolio/">VINEET SINGH</h1>
 </p>
 
 <p>
