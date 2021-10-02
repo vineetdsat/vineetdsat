@@ -7,7 +7,7 @@
 </p>
 
 <p>
-<a href = "mailto: vineetdsat@gmail.com"><img src="https://img.shields.io/badge/Gmail-vineetdsat@gmail.com-blueviolet" alt="Gmail" width = "208", hight = 208/></a>
+<a href = "mailto: vineetdsat@gmail.com"><img src="https://img.shields.io/badge/Gmail-vineetdsat@gmail.com-blueviolet" alt="Gmail" width = "205", hight = 205/></a>
 <a href = "https://wa.me/917348903189"><img src="https://img.shields.io/badge/Mobile-+91_7348_903_189-blueviolet" alt="Mobile" width = "200", hight = 200/></a>
 </p>
 
