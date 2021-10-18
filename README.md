@@ -18,9 +18,9 @@ Engineering graduate, Attentive to Details and a data enthusiast. Passionate abo
 
 ### View My Work & Achivements At - 
 <p align = left>
-<a href="https://public.tableau.com/app/profile/vineet.singh3192"><img src = "https://unpkg.com/simple-icons@v5/icons/tableau.svg" width = 30 hight = 10>&ensp;<img src="https://img.shields.io/badge/Tableau-Profile-orange" alt="LinkedIn" width = "130", hight = 100/></a>&ensp;&ensp;
-<a href="https://vineetdsat.github.io/portfolio/"><img src = "https://unpkg.com/simple-icons@v5/icons/github.svg" width = 30 hight = 10>&ensp;<img src="https://img.shields.io/badge/Personal-Portfolio-orange" alt="LinkedIn" width = "150", hight = 100/></a>&ensp;&ensp;
-<a href = "https://www.credly.com/users/vineet-singh.647779d8/badges/"><img src = "https://unpkg.com/simple-icons@v5/icons/acclaim.svg" width = 30 hight = 10>&ensp;<img src="https://img.shields.io/badge/Credly-Badges-orange" alt="LinkedIn" width = "130", hight =100/></a>
+<a href="https://public.tableau.com/app/profile/vineet.singh3192"><img src = "https://unpkg.com/simple-icons@v5/icons/tableau.svg" width = 30 hight = 10>&ensp;<img src="https://img.shields.io/badge/Tableau-Profile-orange" alt="Tableau" width = "130", hight = 100/></a>&ensp;&ensp;
+<a href="https://vineetdsat.github.io/portfolio/"><img src = "https://unpkg.com/simple-icons@v5/icons/github.svg" width = 30 hight = 10>&ensp;<img src="https://img.shields.io/badge/Personal-Portfolio-orange" alt="Portfolio" width = "150", hight = 100/></a>&ensp;&ensp;
+<a href = "https://www.credly.com/users/vineet-singh.647779d8/badges/"><img src = "https://img.icons8.com/dotty/452/portfolio.png" width = 35 hight = -8>&ensp;<img src="https://img.shields.io/badge/Credly-Badges-orange" alt="Credly" width = "130", hight =100/></a>
 </p>
 
 ## My Skills
